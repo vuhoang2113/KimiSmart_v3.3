@@ -1,0 +1,103 @@
+{
+    "title": "Instructions for using the KIMITAP Smart",
+    "description": {
+        "block": {
+            "1": "With KIMITAP Smart, you can share your information with friends and partners has become faster and easier than ever. With \"one-touch technology\" you can share all the information you want such as Phone number, Email, Line, Tiktok…",
+            "2": "Activate and use the KIMITAP Smart quickly in 3 simple steps"
+        }
+    },
+    "step": {
+        "1": {
+            "title": "STEP 1: Register your account",
+            "block": {
+                "1": "Go to the KIMITAP Website via the link https://kimitap.com/register or scan the QR code below to register your account information",
+                "2": "Fill in all the information on the KIMITAP account registration page according to specific instructions.",
+                "3": "After filling in the information for the KIMITAP Smart, please log in to the system to activate and use the smart card or key."
+            }
+        },
+        "2": {
+            "title": "STEP 2: Edit profile KIMITAP。"
+        },
+        "3": {
+            "title": "STEP 3: Edit and manger links.",
+            "block": {
+                "1": "Next, to add the KIMITAP smart with social networking information Line, Facebook, Instagram, TikTok ... You go to the Edit Link section, select \"Create New Link\". The system will let you choose the account type and add a link."
+            }
+        }
+    },
+    "get_link": {
+        "title": "How to get links to social networks:",
+        "facebook": {
+            "title": "1. Facebook:",
+            "block": {
+                "1": "Copy and paste the last string into KIMITAP."
+            }
+        },
+        "instagram": {
+            "title": "2. Instagram:",
+            "block": {
+                "1": "Copy the username into KIMITAP."
+            }
+        },
+        "line": {
+            "title": "3. Line:",
+            "block": {
+                "1": "Copy and paste the last string into KIMITAP."
+            }
+        },
+        "telegram": {
+            "title": "4. Telegram:",
+            "block": {
+                "1": "Copy the username into KIMITAP."
+            }
+        },
+        "tiktok": {
+            "title": "5. Tiktok:",
+            "block": {
+                "1": "Copy the username will be below the avatar into KIMITAP."
+            }
+        },
+        "twitter": {
+            "title": "6. Twitter:",
+            "block": {
+                "1": "Copy the username into KIMITAP."
+            }
+        },
+        "youtube": {
+            "title": "7. Youtube:",
+            "block": {
+                "1": "Copy and paste the last string into KIMITAP."
+            }
+        },
+        "skype": {
+            "title": "8. Skyper:",
+            "block": {
+                "1": "Go to “Skype Profile”, copy the Skype name and paste it into KIMITAP."
+            }
+        },
+        "website": {
+            "title": "9. Website:",
+            "block": {
+                "1": "You can add your website link to KIMITAP."
+            }
+        },
+        "pinterest": {
+            "title": "10. Pinterest:",
+            "block": {
+                "1": "Copy the Username from the profile page into KIMITAP."
+            }
+        },
+        "linkedin": {
+            "title": "11. Linkedin:",
+            "block": {
+                "1": "Go to “View Profile”, Copy and paste the last string into KIMITAP."
+            }
+        },
+        "zalo_momo": {
+            "title": "12. Zalo, Momo:",
+            "block": {
+                "1": "With Zalo and Momo, you just need to add your phone number into KIMITAP."
+            }
+        }
+    }
+}

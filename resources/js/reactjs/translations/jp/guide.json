@@ -1,0 +1,103 @@
+{
+    "title": "KIMITAPスマートカードの使用方法",
+    "description": {
+        "block": {
+            "1": "KIMITAP Smartを使用すると、友人やパートナーと情報を共有できるようになり、これまでになく迅速かつ簡単になりました。 「ワンタッチテクノロジー」を使用すると、電話番号、電子メール、ライン、Tiktokなどの必要なすべての情報を共有できます。",
+            "2": "KIMITAP スマートをアクティブにして3つの簡単なステップですばやく使用する。"
+        }
+    },
+    "step": {
+        "1": {
+            "title": "ステップ1：アカウントを登録する",
+            "block": {
+                "1": "このリンクhttps://kimitap.com/registerに入力するか、以下のQRコードをスキャンしてアカウント情報を登録してください。",
+                "2": "特定の指示に従って、KIMITAPアカウント登録ページにすべての情報を入力します。",
+                "3": "KIMITAP カードの情報を入力したら、システムにログインして、スマートカードまたはキーをアクティブにして使用してください。"
+            }
+        },
+        "2": {
+            "title": "ステップ２：KIMITAPのプロファイル編集方法。"
+        },
+        "3": {
+            "title": "ステップ３：リンクを編集方法と管理方法。",
+            "block": {
+                "1": "次に、KIMITAPカードにLine、Facebook、Instagram、TikTok ...などのソーシャルネットワーク情報を追加する方法。Edit Link ボタンをクリックして。システムでは、アカウントの種類を選択してリンクを追加できます。"
+            }
+        }
+    },
+    "get_link": {
+        "title": "ソーシャルネットワークへのリンクを取得する方法：",
+        "facebook": {
+            "title": "1. Facebook:",
+            "block": {
+                "1": "最後の文字列をコピーしてKIMITAPに貼り付けてください。"
+            }
+        },
+        "instagram": {
+            "title": "2. Instagram:",
+            "block": {
+                "1": "ユーザーネームをKIMITAPに入力しください。"
+            }
+        },
+        "line": {
+            "title": "3. Line:",
+            "block": {
+                "1": "最後の文字列をコピーしてKIMITAPに貼り付けてください。"
+            }
+        },
+        "telegram": {
+            "title": "4. Telegram:",
+            "block": {
+                "1": "ユーザーネームをKIMITAPに入力しください。"
+            }
+        },
+        "tiktok": {
+            "title": "5. Tiktok:",
+            "block": {
+                "1": "アバターの下にあるユーザー名をKIMITAPに入力してください。"
+            }
+        },
+        "twitter": {
+            "title": "6. Twitter:",
+            "block": {
+                "1": "ユーザーネームをKIMITAPに入力しください。"
+            }
+        },
+        "youtube": {
+            "title": "7. Youtube:",
+            "block": {
+                "1": "最後の文字列をコピーしてKIMITAPに貼り付けてください。"
+            }
+        },
+        "skype": {
+            "title": "8. Skyper:",
+            "block": {
+                "1": "“Skypeプロファイル”に移動し、Skype名をコピーしてKIMITAPに貼り付けください。"
+            }
+        },
+        "website": {
+            "title": "9. Website:",
+            "block": {
+                "1": "あなたのウェブサイトのリンクを追加することができます。"
+            }
+        },
+        "pinterest": {
+            "title": "10. Pinterest:",
+            "block": {
+                "1": "ユーザーネームをKIMITAPに入力しください。"
+            }
+        },
+        "linkedin": {
+            "title": "11. Linkedin:",
+            "block": {
+                "1": "“プロフィールを表示”に移動し、最後の文字列をコピーしてKIMITAPに貼り付けください。"
+            }
+        },
+        "zalo_momo": {
+            "title": "12. Zalo, Momo:",
+            "block": {
+                "1": "あなんたのZaloと Momoいる電話番号を入力してください。"
+            }
+        }
+    }
+}
